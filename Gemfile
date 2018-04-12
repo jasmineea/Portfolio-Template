@@ -67,5 +67,3 @@ gem "font-awesome-sass", "~> 5.0"
 # Added at 2018-04-12 12:52:14 -0700 by jasmineanderson:
 gem "font-awesome-rails", "~> 4.7"
 
-# Added at 2018-04-12 12:57:00 -0700 by jasmineanderson:
-gem "rails_12factor", "~> 0.0.3"
